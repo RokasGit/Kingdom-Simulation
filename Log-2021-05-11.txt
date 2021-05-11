@@ -1,0 +1,29 @@
+miner 1 put: 9 amount of valuables. 11/05/2021 10:45:11
+miner 2 put: 25 amount of valuables. 11/05/2021 10:45:11
+miner 3 put: 14 amount of valuables. 11/05/2021 10:45:11
+Accountant 1 has: Ruby: 0, Gold: 0, Diamonds: 0 11/05/2021 10:45:15
+miner 3 put: 25 amount of valuables. 11/05/2021 10:45:16
+miner 2 put: 7 amount of valuables. 11/05/2021 10:45:16
+miner 1 put: 14 amount of valuables. 11/05/2021 10:45:16
+transporter 1 is waiting 11/05/2021 10:45:20
+transporter 2 took: 91 amount of valuables. 11/05/2021 10:45:20
+miner 2 put: 14 amount of valuables. 11/05/2021 10:45:21
+miner 3 put: 7 amount of valuables. 11/05/2021 10:45:21
+miner 1 put: 10 amount of valuables. 11/05/2021 10:45:21
+transporter 2 is waiting 11/05/2021 10:45:23
+transporter 2 is waiting 11/05/2021 10:45:26
+miner 3 put: 20 amount of valuables. 11/05/2021 10:45:26
+miner 1 put: 23 amount of valuables. 11/05/2021 10:45:26
+miner 2 put: 29 amount of valuables. 11/05/2021 10:45:26
+Accountant 1 has: Ruby: 32, Gold: 29, Diamonds: 30 11/05/2021 10:45:29
+miner 3 put: 22 amount of valuables. 11/05/2021 10:45:31
+miner 1 put: 6 amount of valuables. 11/05/2021 10:45:31
+miner 2 put: 11 amount of valuables. 11/05/2021 10:45:31
+transporter 2 took: 51 amount of valuables. 11/05/2021 10:45:32
+transporter 1 is waiting 11/05/2021 10:45:32
+transporter 2 took: 53 amount of valuables. 11/05/2021 10:45:35
+King used 114 valuables from treasury for the party. 11/05/2021 10:45:36
+miner 1 put: 14 amount of valuables. 11/05/2021 10:45:36
+miner 3 put: 10 amount of valuables. 11/05/2021 10:45:36
+miner 2 put: 7 amount of valuables. 11/05/2021 10:45:36
+transporter 1 is waiting 11/05/2021 10:45:38
